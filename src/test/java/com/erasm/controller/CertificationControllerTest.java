@@ -81,7 +81,7 @@ class CertificationControllerTest {
 
     @Test
     @WithMockUser
-    void testGetCertificationById() throws Exception {
+    void testGetCertificationById() throws Exception{
 
         CertificationDTO dto = new CertificationDTO();
         dto.setCertificationId(1);
@@ -92,6 +92,8 @@ class CertificationControllerTest {
         when(certificationService.getCertificationById(1))
                 .thenReturn(dto);
 
+        
+        
         mockMvc.perform(get("/certifications/1"))
                 .andExpect(status().isOk())
                 .andExpect(jsonPath("$.certificationName").value("Java Certification"));
