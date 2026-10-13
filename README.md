@@ -1,4 +1,5 @@
 # Enterprise Resource Allocation and Skill Management System (ERASM)
+Author: Sahana B U
 
 ## Project Overview
 
