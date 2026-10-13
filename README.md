@@ -185,14 +185,6 @@ The repository follows the requested branch naming convention:
 
 Commit messages follow conventional prefixes such as `feat:`, `fix:`, `refactor:`, `test:`, and `docs:`.
 
-## Future Enhancements
-
-- Develop a responsive frontend.
-- Introduce intelligent employee-to-project recommendations.
-- Add email notifications for resource request updates.
-- Provide downloadable PDF and Excel reports.
-- Support cloud deployment and enhanced analytics.
-
 22. Author
 
 - Sahana B U
