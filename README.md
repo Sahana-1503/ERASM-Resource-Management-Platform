@@ -193,6 +193,9 @@ Commit messages follow conventional prefixes such as `feat:`, `fix:`, `refactor:
 - Provide downloadable PDF and Excel reports.
 - Support cloud deployment and enhanced analytics.
 
-## Author
+22. Author
 
-Developed as part of the Enterprise Resource Allocation and Skill Management System training project.
+Sahana B U
+Engineering Student
+Intrested in Backend Development
+Security Systems Builder
