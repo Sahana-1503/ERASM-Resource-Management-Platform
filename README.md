@@ -195,7 +195,7 @@ Commit messages follow conventional prefixes such as `feat:`, `fix:`, `refactor:
 
 22. Author
 
-Sahana B U
-Engineering Student
-Intrested in Backend Development
-Security Systems Builder
+- Sahana B U
+- Engineering Student
+- Intrested in Backend Development
+- Security Systems Builder
